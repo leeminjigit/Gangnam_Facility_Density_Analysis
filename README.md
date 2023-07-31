@@ -38,3 +38,32 @@
   -1동, -2동, 본동 등 -동으로 통일
   세곡동 산하 율현동, 자곡동 > 세곡동으로 통일 
   ```
+### 3. EDA
+
+## part 1. 행정동 별 생활인구 & 시설 현황
+
+
+## part 2. 강남구 시설별 분포 지도
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/3a129eef-3513-47e9-970d-d6df6576cab2)
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/7895ab8d-29b0-4715-acc7-3113a6fbb02a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
