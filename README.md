@@ -1,5 +1,8 @@
 # Gangnam_Facility_Density_Analysis
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/6c9d00b0-033d-46cf-b434-951b359ed0bd)
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/448c1cd7-2f85-40ac-919f-76cc3933cf45)
+## 비지도 학습을 통한 강남구 내 특정 위치의 시설 밀도 분석
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/637b844f-61e3-4966-9c55-87c5d71ce9ff)
+
 📖 introduce
 -----
 * 서울시 내에서 시설 밀집도가 높은 곳을 찾는다면 많은 사람들은 **강남구**를 말할 것입니다.
