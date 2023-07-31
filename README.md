@@ -47,13 +47,19 @@ part 2. 강남구 시설별 분포 지도
 ### 4. model seting
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/14a28c02-5a36-4381-8b71-6116848c112b)
 
-### 모델링 시각화 
-![Uploading image.png…]()
+### modeling visualization
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/046a7d61-59e5-4aa8-b910-6f908a833798)
+
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/215cddad-02a4-421c-9504-207be9e5c320)
 
 
-
-
-
+### 활용방안
+* 특정 좌표 데이터
+  * 상권 분석
+  * 부동산 분석
+* 역 주변 좌표 데이터
+  * 도시계획 개발
+  * 공공시설 증설
 
 
 
