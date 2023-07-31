@@ -45,25 +45,10 @@ part 2. 강남구 시설별 분포 지도
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/09dc0eb0-6a05-4cf7-a735-1ec4654c8820)
 
 ### 4. model seting
-**(1) 폴리곤 바운더리 활용하여 강남구 내 랜덤 좌표 추출**
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/14a28c02-5a36-4381-8b71-6116848c112b)
 
-폴리곤 바운더리로 랜덤 좌표 중 강, 산 부분을 제외
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/90376473-139d-4b1f-9924-8faf1deb9084)
-
-**(2) 랜덤 좌표 기준 반경 500m 내 시설별 개수 추출, 전처리**
-
-랜덤 좌표를 기준으로 반경 500m 내 편의시설별 개수를 추출
-위경도를 제외한 좌표별 시설 개수를 피처로 사용
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/ad9546c8-fab1-4051-b359-fafd725f434d)
-
-**(3) 군집화(KMeans)**
-
-클러스터 5개로 나누었을 때가 가장 적절하다 판단.
-
-**(4) 클러스터별 밀도 레벨 구분 – 평균값, 중위값 활용**
-
-평균값과 중위값을 기준으로 밀도가 높은 클러스터를 선별
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/df7a49dd-e86b-481b-88fb-339ffae05db0)
+### 모델링 시각화 
+![Uploading image.png…]()
 
 
 
