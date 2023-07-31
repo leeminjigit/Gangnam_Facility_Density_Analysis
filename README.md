@@ -41,6 +41,7 @@
 ### 3. EDA
 
 ## part 1. 행정동 별 생활인구 & 시설 현황
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/40c85c2d-84a3-40d8-ba24-b09c9e086506)
 
 
 ## part 2. 강남구 시설별 분포 지도
