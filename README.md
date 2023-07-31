@@ -1,7 +1,6 @@
 # Gangnam_Facility_Density_Analysis
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/448c1cd7-2f85-40ac-919f-76cc3933cf45)
 ## 비지도 학습을 통한 강남구 내 특정 위치의 시설 밀도 분석
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/637b844f-61e3-4966-9c55-87c5d71ce9ff)
 
 📖 introduce
 -----
