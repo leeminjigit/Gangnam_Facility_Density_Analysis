@@ -41,8 +41,7 @@
 part 1. 행정동 별 생활인구 & 시설 현황
 
 part 2. 강남구 시설별 분포 지도
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/4b0b9d6c-e54f-4c8f-ae40-91d1f8086a73)
-
+![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/b989ea68-1e03-4487-9e9d-5f3ff354af41)
 
 ### 4. model seting
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/14a28c02-5a36-4381-8b71-6116848c112b)
