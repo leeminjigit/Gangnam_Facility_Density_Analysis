@@ -39,14 +39,22 @@
   세곡동 산하 율현동, 자곡동 > 세곡동으로 통일 
   ```
 ### 3. EDA
+part 1. 행정동 별 생활인구 & 시설 현황
+part 2. 강남구 시설별 분포 지도
 
-## part 1. 행정동 별 생활인구 & 시설 현황
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/40c85c2d-84a3-40d8-ba24-b09c9e086506)
+### 4. model seting
+**(1) 폴리곤 바운더리 활용하여 강남구 내 랜덤 좌표 추출**
+폴리곤 바운더리로 랜덤 좌표 중 강, 산 부분을 제외
 
+**(2) 랜덤 좌표 기준 반경 500m 내 시설별 개수 추출, 전처리**
+랜덤 좌표를 기준으로 반경 500m 내 편의시설별 개수를 추출
+위경도를 제외한 좌표별 시설 개수를 피처로 사용
 
-## part 2. 강남구 시설별 분포 지도
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/3a129eef-3513-47e9-970d-d6df6576cab2)
-![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/7895ab8d-29b0-4715-acc7-3113a6fbb02a)
+**(3) 군집화(KMeans)**
+클러스터 5개로 나누었을 때가 가장 적절하다 판단.
+
+**(4) 클러스터별 밀도 레벨 구분 – 평균값, 중위값 활용**
+평균값과 중위값을 기준으로 밀도가 높은 클러스터를 선별
 
 
 
