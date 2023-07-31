@@ -27,7 +27,7 @@
 * 로컬 데이터 포탈
   * 인허가 시설 데이터
   
-### 2. preprocesing
+### 2. Preprocesing
 * 전체 인허가 시설 데이터 중 5개의 카테고리로 정리
   ```
   음식점, 의료시설, 체육시설, 숙박시설, 문화시설
@@ -43,10 +43,10 @@ part 1. 행정동 별 생활인구 & 시설 현황
 part 2. 강남구 시설별 분포 지도
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/b989ea68-1e03-4487-9e9d-5f3ff354af41)
 
-### 4. model seting
+### 4. Model seting
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/14a28c02-5a36-4381-8b71-6116848c112b)
 
-### 5. modeling visualization
+### 5. Modeling visualization
 ![image](https://github.com/leeminjigit/Gangnam_Facility_Density_Analysis/assets/135116165/215cddad-02a4-421c-9504-207be9e5c320)
 
 
